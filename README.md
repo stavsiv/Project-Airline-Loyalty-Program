@@ -47,6 +47,7 @@ Campaign users showed slightly higher lifetime value, suggesting positive long-t
 **🛠 Tools & Technologies**
 
 Tableau– interactive dashboards and KPI visualization
+
 Python (Pandas, Matplotlib)– data analysis and advanced metrics
 
 **Outcome**
